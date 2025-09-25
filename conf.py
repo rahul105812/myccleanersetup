@@ -29,10 +29,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # -- Options for HTML output -------------------------------------------------
 
 html_theme = 'alabaster'
+html_title = "Unlock Full Features, How to Activate CCleaner License Key and Register Your Professional Version"
 
 # You can still add html_meta here if you want, but with the new Read the Docs addons
 # custom template is the reliable way to inject meta tags.
 
 # If you want to add other meta tags, do so in your _templates/layout.html
+
 
 
